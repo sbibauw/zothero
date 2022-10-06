@@ -47,7 +47,7 @@ Features
 Download & installation
 -----------------------
 
-Download the `ZotHero-XYZ.alfredworkflow` file from [GitHub releases](https://github.com/deanishe/zothero/releases), and double-click the downloaded file to install.
+Download the `ZotHero-XYZ.alfredworkflow` file from [GitHub releases](https://github.com/giovannicoppola/zothero/releases/latest/), and double-click the downloaded file to install.
 
 **Note**: Versions 1.3.0 and later are only compatible with Alfred 4+. If you're still using Alfred 3, download [v1.2.2][v1.2.2].
 
